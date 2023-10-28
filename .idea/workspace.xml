@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67e15900-506e-49b3-b272-e95f1629ef34" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data-structures-and-algorithms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structures/linkedList.js" beforeDir="false" afterPath="$PROJECT_DIR$/data-structures/linkedList/linkedList.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2WfyupnZ8RV2KK4jPZRJv5lsaU4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Root/Frontend/Projects/github-repositories/data-structures-algorithms&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.mocha.mocha_node_package_dir&quot;: &quot;C:/Root/Frontend/Projects/github-repositories/data-structures-algorithms/node_modules/mocha&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\alxxp\\AppData\\Local\\JetBrains\\Toolbox\\apps\\WebStorm\\ch-0\\232.9921.42\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Root\Frontend\Projects\github-repositories\data-structures-algorithms\data-structures\linkedList" />
+      <recent name="C:\Root\Frontend\Projects\github-repositories\data-structures-algorithms\spec" />
+      <recent name="C:\Root\Frontend\Projects\github-repositories\data-structures-algorithms-ES6\ES6\promise\common" />
+      <recent name="C:\Root\Frontend\Projects\github-repositories\data-structures-and-algorithms\ES6" />
+      <recent name="C:\Root\Frontend\Projects\github-repositories\data-structures-and-algorithms\algorithms" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.linkedList.js">
+    <configuration name="linkedList.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/data-structures/linkedList/linkedList.js" working-dir="$PROJECT_DIR$/data-structures/linkedList">
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Linked List.Append (1)" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/data-structures/linkedList/linkedList.spec.js</test-file>
+      <test-names>
+        <name value="Linked List" />
+        <name value="Append" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="data-structures\linkedList\linkedList.spec.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/data-structures/linkedList/linkedList.spec.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="test\linkedList.spec.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/linkedList.spec.js</test-file>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.linkedList.js" />
+        <item itemvalue="npm.test" />
+        <item itemvalue="Mocha.test\linkedList.spec.js" />
+        <item itemvalue="Mocha.Linked List.Append (1)" />
+        <item itemvalue="Mocha.data-structures\linkedList\linkedList.spec.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67e15900-506e-49b3-b272-e95f1629ef34" name="Changes" comment="" />
+      <created>1697138155320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697138155320</updated>
+      <workItem from="1697138156281" duration="10755000" />
+      <workItem from="1697156408511" duration="19000" />
+      <workItem from="1697157107460" duration="229000" />
+      <workItem from="1697492544758" duration="9000" />
+      <workItem from="1697493216944" duration="9000" />
+      <workItem from="1697724032659" duration="88000" />
+      <workItem from="1697782430757" duration="3716000" />
+      <workItem from="1697809021518" duration="323000" />
+      <workItem from="1697863933045" duration="5124000" />
+      <workItem from="1697869394973" duration="279000" />
+      <workItem from="1697870820875" duration="6000000" />
+      <workItem from="1697880229352" duration="34000" />
+      <workItem from="1697897733316" duration="52000" />
+      <workItem from="1698320973592" duration="3611000" />
+      <workItem from="1698433147932" duration="152000" />
+      <workItem from="1698486929053" duration="2770000" />
+      <workItem from="1698495670041" duration="6814000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
